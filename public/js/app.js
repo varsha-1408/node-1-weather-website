@@ -1,4 +1,4 @@
-console.log('Client side javascript')
+
 // below line means that fetching the data from this url and then ruuning that function
 
 
